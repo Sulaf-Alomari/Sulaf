@@ -1,2 +1,6 @@
 "Hi, my name is sulaf alomari" 
+<<<<<<< HEAD
 "Im 22 years old" 
+=======
+"I graduated from JUST" 
+>>>>>>> main
